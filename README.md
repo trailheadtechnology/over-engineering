@@ -7,6 +7,6 @@ Journey with us as we delve into the most common mistakes that pave the path to 
 
 Your takeaway will be some practical strategies that will help you hold the line on over-engineering. In short, you will learn to strike the right balance between power and simplicity in your software projects.
 
-## Free Consultation Offer
-https://tinyurl.com/th-offer
+## Schedule Time With Me
+https://trailheadtechnology.com/connect/?t=over-engineering
 
