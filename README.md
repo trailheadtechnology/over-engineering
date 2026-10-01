@@ -7,6 +7,13 @@ Journey with us as we delve into the most common mistakes that pave the path to 
 
 Your takeaway will be some practical strategies that will help you hold the line on over-engineering. In short, you will learn to strike the right balance between power and simplicity in your software projects.
 
+## Demo Code
+
+- [`code/`](code/): an over-engineered hotel reservation lookup, the 15-line version the ticket actually needed,
+  and Roslyn analyzers that flag over-engineering at build time
+- [`.claude/skills/over-engineering-review/`](.claude/skills/over-engineering-review/SKILL.md): an AI agent skill that reviews code
+  against the ticket and your ADRs and maps each finding to one of the 10 types of over-engineering.
+  Works with any tool that supports the [Agent Skills](https://agentskills.io) format.
+
 ## Schedule Time With Me
 https://trailheadtechnology.com/connect/?t=over-engineering
-

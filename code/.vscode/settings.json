@@ -1,0 +1,9 @@
+{
+  // Open this folder (code) in VS Code with the C# Dev Kit extension installed.
+  "dotnet.defaultSolution": "OverEngineering.slnx",
+
+  // Analyze every file, not just open ones. OE0002 and OE0003 need the whole compilation,
+  // so they only appear in the Problems panel with this set to fullSolution.
+  "dotnet.backgroundAnalysis.analyzerDiagnosticsScope": "fullSolution",
+  "dotnet.backgroundAnalysis.compilerDiagnosticsScope": "fullSolution"
+}

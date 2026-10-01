@@ -1,0 +1,13 @@
+# Over-engineering demo settings for HotelReservations
+
+[*.cs]
+
+# Every OE rule is a judgment call, so they ship as Info. Raise them for the demo.
+dotnet_diagnostic.OE0002.severity = warning
+dotnet_diagnostic.OE0003.severity = warning
+dotnet_diagnostic.OE0006.severity = warning
+dotnet_diagnostic.OE0007.severity = warning
+dotnet_diagnostic.OE0009.severity = warning
+
+# Demo step: make a rule fail the build
+# dotnet_diagnostic.OE0007.severity = error

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HotelReservations.Simple/HotelReservations.Simple.csproj" />
+  <Project Path="HotelReservations/HotelReservations.csproj" />
+  <Project Path="OverEngineering.Analyzers.Tests/OverEngineering.Analyzers.Tests.csproj" />
+  <Project Path="OverEngineering.Analyzers/OverEngineering.Analyzers.csproj" />
+</Solution>
